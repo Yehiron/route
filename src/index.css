@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #fdf6ec;
+  color: #3b2a1a;
+  margin: 0;
+  padding: 24px;
+}
+
+.tarjetas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+article {
+  background: white;
+  border: 2px solid #c8a27a;
+  border-radius: 12px;
+  padding: 16px;
+  width: 220px;
+}
+
+button {
+  background: #6f4e37;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 12px;
+  cursor: pointer;
+}

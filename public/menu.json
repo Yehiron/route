@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "c1",
+    "nombre": "Café con leche",
+    "descripcion": "Café de origen con leche espumada",
+    "precio": 6000,
+    "disponible": true
+  },
+  {
+    "_id": "c2",
+    "nombre": "Chocolate caliente",
+    "descripcion": "Con canela y queso",
+    "precio": 7500,
+    "disponible": true
+  },
+  {
+    "_id": "c3",
+    "nombre": "Pandebono",
+    "descripcion": "Recién horneado",
+    "precio": 3000,
+    "disponible": false
+  }
+]
